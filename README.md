@@ -12,7 +12,7 @@ The idea is to create a tool that can automatically generate some pacenotes acco
 2. Get a free api on https://lbs.amap.com/ 
 3. Start to play with it!
 
-## Where to improve
+## Where to Improve
 1. Calculate the change of raidus of a u-turn corner.
 2. Merge adjacent straight sections or corners.
 3. Generator natural pacenotes, e.g., "right 3 *into* left 4 when the distance inbetween is short, "right 3 *and* left 4 when the distance inbetween is moderate (er, how to define moderate or short?)
