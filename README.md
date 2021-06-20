@@ -3,7 +3,7 @@
 A rally pacenote generator based on AMap WebAPI.
 
 ## Introduction
-As you may already know, rally drivers use an unique way to describe competitive stages, which are actually open roads taht we can drive everyday.
+As you may already know, rally drivers use an unique way to describe competitive stages, which are actually open roads that we can drive everyday.
 The idea is to create a tool that can automatically generate some pacenotes according to GIS info rather than we do it manually, here data from AMap have been introduced.
 
 ## Getting Started
